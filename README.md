@@ -1,4 +1,3 @@
-[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 # San Cameron RPG - SAMP
 A San Cameron RPG egy 2023 és 2024 között készülő RP szerver volt, viszont nem került befejezésre. Ennek egyik oka az időhiány, másik oka pedig az, hogy a mod, amire ezt építettük ([South Central Roleplay](https://github.com/seanny/SC-RP)) elég sok hibával rendelkezett, amikből jó párat még most sem sikerült kijavítani.\
 A játékmód körülbelül 95%-ban került lefordításra, pár adminparancs maradt hátra.\
@@ -39,12 +38,12 @@ Ennek végeztél a szerver futtatható a **samp-server.exe** használatával.\
 ## Készítők
 - Emmett, Apple - A South Central Roleplay eredeti fejlesztői
 - Risky - A South Central Roleplay eredeti tulajdonosa
-- @DarkSCRPG - A San Cameron RPG tulajdonosa, mappere és fordítója
-- @House9919 - A San Cameron RPG tulajdonosa és fejlesztője
+- [Dark](https://github.com/DarkSCRPG) - A San Cameron RPG tulajdonosa, mappere és fordítója
+- [House9919](https://github.com/House9919) - A San Cameron RPG fejlesztője
 
 ## Megjegyzés
-A játékmódhoz map nem tartozik (az alap South Centralos mappolások is ki lettek véve).
-Ha bármi egyéb kérdésed lenne, nyugodtan keress fel Discordon: house9919
+A játékmódhoz map nem tartozik (az alap South Centralos mappolások is ki lettek véve).\
+Ha bármi egyéb kérdésed lenne, nyugodtan keress fel Discordon: **house9919**
 
 ## Licensz
 A játékmód a Creative Commons Attribution-NonCommercial licenszt használja.
