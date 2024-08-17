@@ -1,0 +1,127 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:57:24] password = ""  (string)
+[22:57:24] 
+[22:57:24] Server Plugins
+[22:57:24] --------------
+[22:57:24]  Loading plugin: crashdetect.so
+[22:57:24]   CrashDetect v4.12 is OK.
+[22:57:24]   Loaded.
+[22:57:24]  Loading plugin: nativechecker.so
+[22:57:24]   Loaded.
+[22:57:24]  Loading plugin: mysql_static.so
+[22:57:24]  >> plugin.mysql: R34 successfully loaded.
+[22:57:24]   Loaded.
+[22:57:24]  Loading plugin: streamer.so
+[22:57:24] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:57:24]   Loaded.
+[22:57:24]  Loading plugin: Whirlpool.so
+[22:57:24]  
+[22:57:24]  ==================
+[22:57:24]  
+[22:57:24]   Whirlpool loaded
+[22:57:24]  
+[22:57:24]  ==================
+[22:57:24]  
+[22:57:24]   Loaded.
+[22:57:24]  Loading plugin: sscanf.so
+[22:57:24] 
+
+[22:57:24]  ===============================
+
+[22:57:24]       sscanf plugin loaded.     
+
+[22:57:24]          Version:  2.8.2        
+
+[22:57:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:57:24]  ===============================
+
+[22:57:24]   Loaded.
+[22:57:24]  Loaded 6 plugins.
+
+[22:57:24] 
+[22:57:24] Filterscripts
+[22:57:24] ---------------
+[22:57:24]   Loading filterscript 'UltraHost.amx'...
+[22:57:24] AMX (137354264) loaded
+[22:57:24]   Loading filterscript 'mapo.amx'...
+[22:57:24] AMX (136153304) loaded
+[22:57:24]   Loading filterscript 'jocorpac.amx'...
+[22:57:24] AMX (137449568) loaded
+[22:57:24]   Loading filterscript 'jocorpantivpn.amx'...
+[22:57:24] AMX (137449840) loaded
+[22:57:24] 
+--------------------------------------
+[22:57:24] JOCORP VPN
+[22:57:24] --------------------------------------
+
+[22:57:24]   Loading filterscript 'jocorpac2.amx'...
+[22:57:25] AMX (137440112) loaded
+[22:57:25] JOCORP AC
+[22:57:25]   Loaded 5 filterscripts.
+
+[22:57:25]    Error: Function not registered: 'SSCANF_Init'
+[22:57:25]    Error: Function not registered: 'SSCANF_IsConnected'
+[22:57:25]    Error: Function not registered: 'SSCANF_Join'
+[22:57:25]    Error: Function not registered: 'SSCANF_Leave'
+[22:57:25]    Error: Function not registered: 'mysql_connect'
+[22:57:25]    Error: Function not registered: 'mysql_errno'
+[22:57:25]    Error: Function not registered: 'WP_Hash'
+[22:57:25]    Error: Function not registered: 'mysql_tquery'
+[22:57:25]    Error: Function not registered: 'cache_get_field_content'
+[22:57:25]    Error: Function not registered: 'mysql_escape_string'
+[22:57:25]    Error: Function not registered: 'cache_get_data'
+[22:57:25]    Error: Function not registered: 'cache_affected_rows'
+[22:57:25]    Error: Function not registered: 'cache_insert_id'
+[22:57:25]    Error: Function not registered: 'IsValidDynamicObject'
+[22:57:25]    Error: Function not registered: 'DestroyDynamicObject'
+[22:57:25]    Error: Function not registered: 'CreateDynamicObject'
+[22:57:25]    Error: Function not registered: 'GetDynamicObjectPos'
+[22:57:25]    Error: Function not registered: 'IsValidDynamicMapIcon'
+[22:57:25]    Error: Function not registered: 'DestroyDynamicMapIcon'
+[22:57:25]    Error: Function not registered: 'CreateDynamicMapIcon'
+[22:57:25]    Error: Function not registered: 'SetDynamicObjectMaterial'
+[22:57:25]    Error: Function not registered: 'SetDynamicObjectMaterialText'
+[22:57:25]    Error: Function not registered: 'IsValidDynamic3DTextLabel'
+[22:57:25]    Error: Function not registered: 'DestroyDynamic3DTextLabel'
+[22:57:25]    Error: Function not registered: 'CreateDynamic3DTextLabel'
+[22:57:25]    Error: Function not registered: 'IsValidDynamicPickup'
+[22:57:25]    Error: Function not registered: 'DestroyDynamicPickup'
+[22:57:25]    Error: Function not registered: 'CreateDynamicPickup'
+[22:57:25]    Error: Function not registered: 'MoveDynamicObject'
+[22:57:25]    Error: Function not registered: 'cache_get_row'
+[22:57:25]    Error: Function not registered: 'sscanf'
+[22:57:25]    Error: Function not registered: 'UpdateDynamic3DTextLabelText'
+[22:57:25]    Error: Function not registered: 'EditDynamicObject'
+[22:57:25]    Error: Function not registered: 'CreateDynamicPickupEx'
+[22:57:25]    Error: Function not registered: 'CreateDynamicObjectEx'
+[22:57:25]    Error: Function not registered: 'SetDynamicObjectPos'
+[22:57:25]    Error: Function not registered: 'Streamer_ToggleIdleUpdate'
+[22:57:25]    Error: Function not registered: 'SetDynamicObjectRot'
+[22:57:25]    Error: Function not registered: 'AttachDynamicObjectToVehicle'
+[22:57:25] AMX (137354144) loaded
+[22:57:25]  
+[22:57:25]  
+[22:57:25]  
+[22:57:25]  ======================================= 
+[22:57:25]  |                                     | 
+[22:57:25]  |        YSI version 3.09.0684        | 
+[22:57:25]  |        By Alex "Y_Less" Cole        | 
+[22:57:25]  |                                     | 
+[22:57:25]  ======================================= 
+[22:57:25]  
+[22:57:25] [SQL] Connection to "23.88.73.88" passed!
+[22:57:26] v0.1 San Cameron RPG S3 - TWS (Teszt szerver)
+[22:57:26] Number of vehicle models: 1
+[22:57:26] New version of CrashDetect is available for download (4.13)
