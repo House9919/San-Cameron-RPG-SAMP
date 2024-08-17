@@ -4,8 +4,9 @@ A játékmód körülbelül 95%-ban került lefordításra, pár adminparancs ma
 Ettől függetlenül **nem ajánljuk** senkinek sem a mod publikus használatát ebben az állapotában.
 
 ## Telepítés és futtatás
+Az elérhető legfrissebb verzió letöltése [itt](https://github.com/House9919/San-Cameron-RPG-SAMP/releases)
 ### Linux
-A repó klónozása vagy forkolása után az első dolog átírni a MySQL adatbázis adatait a **roleplay.pwn** elején:
+Letöltés után az első dolog átírni a MySQL adatbázis adatait a **roleplay.pwn** elején:
 ```pawn
 #define SQL_HOSTNAME "127.0.0.1"
 #define SQL_USERNAME "név"
